@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/OMikkel/tailwind-datepicker-react.git"
+		"url": "git+https://github.com/matmac/tailwind-datepicker-react.git"
 	},
 	"keywords": [
 		"tailwind",
@@ -29,12 +29,12 @@
 		"dateinput",
 		"date"
 	],
-	"author": "OMikkel",
+	"author": "matmac",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/OMikkel/tailwind-datepicker-react/issues"
+		"url": "https://github.com/matmac/tailwind-datepicker-react/issues"
 	},
-	"homepage": "https://github.com/OMikkel/tailwind-datepicker-react#readme",
+	"homepage": "https://github.com/matmac/tailwind-datepicker-react#readme",
 	"peerDependencies": {
 		"react": ">=17",
 		"react-dom": ">=17",
